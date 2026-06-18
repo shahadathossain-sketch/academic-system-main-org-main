@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Smith",
+    "groupId": "A"
+  },
+  {
+    "id": "2",
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "groupId": "A"
+  },
+  {
+    "id": "3",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "groupId": "A"
+  },
+  {
+    "id": "4",
+    "firstName": "Sophia",
+    "lastName": "Davis",
+    "groupId": "A"
+  },
+  {
+    "id": "5",
+    "firstName": "Daniel",
+    "lastName": "Wilson",
+    "groupId": "A"
+  },
+  {
+    "id": "6",
+    "firstName": "Emily",
+    "lastName": "Taylor",
+    "groupId": "A"
+  },
+  {
+    "id": "7",
+    "firstName": "James",
+    "lastName": "Anderson",
+    "groupId": "A"
+  },
+  {
+    "id": "8",
+    "firstName": "Olivia",
+    "lastName": "Thomas",
+    "groupId": "A"
+  },
+  {
+    "id": "11",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "groupId": "B"
+  },
+  {
+    "id": "12",
+    "firstName": "Noah",
+    "lastName": "Davis",
+    "groupId": "B"
+  },
+  {
+    "id": "13",
+    "firstName": "Benjamin",
+    "lastName": "Martin",
+    "groupId": "B"
+  },
+  {
+    "id": "14",
+    "firstName": "Charlotte",
+    "lastName": "Lee",
+    "groupId": "B"
+  },
+  {
+    "id": "15",
+    "firstName": "Lucas",
+    "lastName": "Perez",
+    "groupId": "B"
+  },
+  {
+    "id": "17",
+    "firstName": "Henry",
+    "lastName": "Harris",
+    "groupId": "B"
+  },
+  {
+    "id": "18",
+    "firstName": "Amelia",
+    "lastName": "Clark",
+    "groupId": "B"
+  },
+  {
+    "id": "19",
+    "firstName": "Alexander",
+    "lastName": "Lewis",
+    "groupId": "B"
+  },
+  {
+    "id": "20",
+    "firstName": "Harper",
+    "lastName": "Walker",
+    "groupId": "B"
+  },
+  {
+    "id": "21",
+    "firstName": "Liam",
+    "lastName": "Williams",
+    "groupId": "C"
+  },
+  {
+    "id": "22",
+    "firstName": "Olivia",
+    "lastName": "Miller",
+    "groupId": "C"
+  },
+  {
+    "id": "23",
+    "firstName": "Elijah",
+    "lastName": "Hall",
+    "groupId": "C"
+  },
+  {
+    "id": "24",
+    "firstName": "Isabella",
+    "lastName": "Allen",
+    "groupId": "C"
+  },
+  {
+    "id": "25",
+    "firstName": "Mason",
+    "lastName": "Young",
+    "groupId": "C"
+  },
+  {
+    "id": "26",
+    "firstName": "Evelyn",
+    "lastName": "King",
+    "groupId": "C"
+  },
+  {
+    "id": "27",
+    "firstName": "Logan",
+    "lastName": "Wright",
+    "groupId": "C"
+  },
+  {
+    "id": "28",
+    "firstName": "Abigail",
+    "lastName": "Scott",
+    "groupId": "C"
+  },
+  {
+    "id": "29",
+    "firstName": "Jacob",
+    "lastName": "Green",
+    "groupId": "C"
+  }
+]
